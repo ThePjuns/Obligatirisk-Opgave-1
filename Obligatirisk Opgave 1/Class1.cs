@@ -4,6 +4,7 @@ namespace Obligatirisk_Opgave_1
 {
     public class FanOut
     {
+        //test
         public int Id { get; set; }
         private string _name;
         private double _temp;
